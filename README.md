@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About ME:
 ¡Hola! 😃<br>Soy Camilo Sol, entusiasta de la programación y <br>del diseño grafico, con ganas de aprender cada día mas
 
 
